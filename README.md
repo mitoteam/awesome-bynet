@@ -1,8 +1,9 @@
 # Интернет-ресурсы Беларуси
 
 <p align="center">
-	[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+	<img src="https://awesome.re/badge-flat.svg" alt="Awesome">
 </p>
+
 <p align="center">Список полезных и свободных (бесплатных!) для использования интернет-ресурсов Беларуси.</p>
 
 ## Содержание
